@@ -19,3 +19,10 @@ This module focuses on the "Extraction of Digits" technique. Understanding how t
 1. **FinTech:** Validating Account/Credit Card numbers using digit extraction (Luhn's Algorithm).
 2. **Security:** Performing prime factorization for RSA encryption using optimized $O(\sqrt{N})$ factor checks.
 3. **AI/ML:** Pre-processing raw numerical data into features for model training.
+
+### 📂 Included Problems:
+1. **Count Digits:** Finding number length using while loop and `log10`.
+2. **Reverse Integer:** Using digit extraction to flip numbers.
+3. **Palindrome Check:** Comparing original vs reversed.
+4. **Armstrong Number:** Power-based digit summation logic.
+5. **Optimized Factors:** Finding divisors using the $O(\sqrt{n})$ rule.
